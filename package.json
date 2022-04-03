@@ -13,6 +13,7 @@
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@epignosis_llc/gnosis": "^2.2.2",
+    "axios": "^0.26.1",
     "babel-preset-next": "^1.4.0",
     "core-js": "^3.21.1",
     "react": "^17.0.2",
