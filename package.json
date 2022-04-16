@@ -10,6 +10,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/AlexandrosAdam/e-shop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandrosAdam/e-shop"
+  },
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@epignosis_llc/gnosis": "^2.2.2",
